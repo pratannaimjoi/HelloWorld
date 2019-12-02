@@ -53,7 +53,7 @@ $ python3 helloworld.py
 ## VPS
 
 ```sh
-$ git clone https://github.com/Aditmadzs/helloworld
+$ git clone https://github.com/tanpattaya/HelloWorld
 $ cd helloworld
 $ python3 -m pip install -r requirements.txt
 $ python3 helloworld.py -a IOSIPAD
