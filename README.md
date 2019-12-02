@@ -5,7 +5,7 @@
 
 ----
 
-# JANGAN LUPA ADD [ADITMADZS BOT](line.me/ti/p/~botaditmadzs)
+# JANGAN LUPA ADD [ADITMADZS BOT](https://line.me/R/ti/p/~ptatan1983'))
 
 ## Termux
 
@@ -14,7 +14,7 @@ $ apt update
 $ apt upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/Aditmadzs/helloworld
+$ git clone https://github.com/tanpattaya/HelloWorld
 $ cd helloworld
 $ pip3 install akad
 $ pip3 install beautifulsoup4
