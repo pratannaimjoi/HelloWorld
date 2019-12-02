@@ -18,18 +18,6 @@ parser.add_argument('-T', '--traceback', type=str2bool, nargs='?', default=False
 parser.add_argument('-S', '--showqr', type=str2bool, nargs='?', default=False, metavar='', required=False, const=True, choices=[True, False], help='Show QR | Use : True/False')
 args = parser.parse_args()
 
-แบบสำรวจ= LinePoll (aditmadzs)
-call = aditmadzs
-ผู้สร้าง= ["uda8195e53e6c6e17f3f745743e477100"]
-owner = ["uda8195e53e6c6e17f3f745743e477100"]
-ผู้ดูแลระบบ= ["uda8195e53e6c6e17f3f745743e477100"]
-staff = ["uda8195e53e6c6e17f3f745743e477100"]
-mid = aditmadzs.getProfile (). mid
-
-= LINE("tanknug1983@gmail.com","https://line.me/R/ti/p/~ptatan1983")
-= LINE.log("Auth Token : " + str(cl.authToken))
-= LINE.log("Timeline Token : " + str(cl.tl.channelAccessToken))
-
 Login Client
 listAppType = ['DESKTOPWIN', 'DESKTOPMAC', 'IOSIPAD', 'CHROMEOS']
 try:
