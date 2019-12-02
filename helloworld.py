@@ -27,10 +27,10 @@ staff = ["uda8195e53e6c6e17f3f745743e477100"]
 mid = aditmadzs.getProfile (). mid
 
 = LINE("tanknug1983@gmail.com","https://line.me/R/ti/p/~ptatan1983")
-= LINE.log("Auth Token : " + str(maxgie.authToken))
-= LINE.log("Timeline Token : " + str(maxgie.tl.channelAccessToken))
+= LINE.log("Auth Token : " + str(cl.authToken))
+= LINE.log("Timeline Token : " + str(cl.tl.channelAccessToken))
 
-# Login Client
+Login Client
 listAppType = ['DESKTOPWIN', 'DESKTOPMAC', 'IOSIPAD', 'CHROMEOS']
 try:
     print ('##----- LOGIN CLIENT -----##')
