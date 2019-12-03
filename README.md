@@ -5,7 +5,7 @@
 
 ----
 
-# JANGAN LUPA ADD [ADITMADZS BOT](https://line.me/R/ti/p/~ptatan1983'))
+# JANGAN LUPA ADD [꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂ BOT](https://line.me/R/ti/p/~ptatan1983'))
 
 ## Termux
 
