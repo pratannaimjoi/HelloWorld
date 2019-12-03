@@ -69,7 +69,7 @@
 ## Author
 # python3
    ``http://line.me/R/ti/p/~ptatan1983` 
-   `http://line.me/ti/p/~tanpattaya1983`
+   `https://line.me/R/ti/p/%40642xtzwc`
 
    /[@pratan-naimjoi](https://www.linkedin.com/in/pratan-naimjoi)
 
