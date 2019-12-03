@@ -5,7 +5,7 @@
 
 ----
 
-# JANGAN LUPA ADD [TAN BOT](https://line.me/R/ti/p/~ptatan1983'))
+# JANGAN LUPA ADD [TAN BOTSelf](https://line.me/R/ti/p/~ptatan1983'))
 
 ## Termux
 
