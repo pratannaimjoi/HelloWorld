@@ -6,7 +6,7 @@ Do not sell or rent it!
 '''
 from important import *
 
-Setup Argparse
+#Setup Argparse
 parser = argparse.ArgumentParser(description='Selfbot Hello World')
 parser.add_argument('-t', '--token', type=str, metavar='', required=False, help='Token | Example : Exxxx')
 parser.add_argument('-e', '--email', type=str, default='', metavar='', required=False, help='Email Address | Example : example@xxx.xx')
@@ -17,7 +17,7 @@ parser.add_argument('-c', '--channelid', type=str, default='', metavar='', requi
 parser.add_argument('-T', '--traceback', type=str2bool, nargs='?', default=False, metavar='', required=False, const=True, choices=[True, False], help='Using Traceback | Use : True/False')
 parser.add_argument('-S', '--showqr', type=str2bool, nargs='?', default=False, metavar='', required=False, const=True, choices=[True, False], help='Show QR | Use : True/False')
 args = parser.parse_args()
-Login Client
+#Login Client
 listAppType = ['DESKTOPWIN', 'DESKTOPMAC', 'IOSIPAD', 'CHROMEOS']
 try:
     print ('##----- LOGIN CLIENT -----##')
