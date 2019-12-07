@@ -3,8 +3,8 @@
     "Sticker": false,
     "Wc": false,
     "Welcome": true,
-    "access_key": "0066725464abd96d2cee00863ad9067f",
-    "access_token": "ec6a73ed66f5704bf4d071a2174fb736238aaeb6",
+    "access_key": "",
+    "access_token": "",
     "addContact": {
         "name": "",
         "status": false
@@ -23,12 +23,12 @@
         "status": false
     },
     "admin": [
-        "udf060a89ebb2af83af77edddb767c329"
+        "uda8195e53e6c6e17f3f745743e477100"
     ],
     "ani_guess": [
-        "c9a9f741633543d70449a7d9801cbbd28"
+        ""
     ],
-    "apiKey": "8e3cf182-807a-4186-9261-a6c8741a9237",
+    "apiKey": "",
     "autoAdd": false,
     "autoJoin": false,
     "autoJoinTicket": false,
@@ -58,7 +58,7 @@
     "checkPost": false,
     "checkSticker": false,
     "com": false,
-    "commet": "auto like by : Maxgie >_<",
+    "commet": "auto like by : ꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂ >_<",
     "content": {
         "sam": [
             "u2cf74acf6ed04d122def4db8ffdd2e39",
@@ -112,7 +112,7 @@
     "myProfile": {
         "coverId": "0f29a11bf122522e23b855949d046db3",
         "coverStatus": "",
-        "displayName": "AdMasmax",
+        "displayName": "꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂",
         "pictureStatus": "0hQ04W_GLFDh8JLiU5b0FxSDVrAHJ-AAhXcRhHK398UCgkGh5NZhtGfygvV3wlH0lJN0BJeih-WXon",
         "statusMessage": null,
         "videoProfile": null
@@ -134,7 +134,7 @@
     "setKey": false,
     "tag": false,
     "timeRestart": 43200,
-    "ttt": "line://app/1602687308-GXq4Vvk9?type=text&text=",
+    "ttt": "line://app/1626556804-GvDNyK69?type=text&text=",
     "unsendMessage": false,
     "userAgent": [
         "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
