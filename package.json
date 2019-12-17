@@ -1,22 +1,22 @@
 {
-  "name": "@ @ codertocat / hello-world-npm",
+  "name": "@codertocat/hello-world-npm",
   "version": "1.0.2",
-  "description": "แพ็กเกจ npm ง่าย ๆ เพื่อสาธิต GitHub Package Registry",
+  "description": "A simple npm package to demonstrate GitHub Package Registry",
   "main": "index.js",
-  "สคริปต์": {
-    "test": "echo \" ข้อผิดพลาด: ไม่ได้ระบุการทดสอบ \ "&& exit 1"
-  }
-  "พื้นที่เก็บข้อมูล": {
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
     "type": "git",
-    "url": "git + https://github.com/tanpattayamy-org/test.git"
-  }
-  "ผู้แต่ง": "Codertocat",
-  "ใบอนุญาต": "ISC",
-  "ข้อบกพร่อง": {
-    "url": "https://github.com/tanpattaya/hello-world-npm/issues"
-  }
-  "หน้าแรก": "https://github.com/tanpattaya/hello-world-npm#readme",
+    "url": "git+https://github.com/Codertocat/hello-world-npm.git"
+  },
+  "author": "Codertocat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codertocat/hello-world-npm/issues"
+  },
+  "homepage": "https://github.com/Codertocat/hello-world-npm#readme",
   "publishConfig": {
-    สตรี "": "https://npm.pkg.github.com/"
+    "registry":"https://npm.pkg.github.com/"
   }
 }
