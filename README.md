@@ -14,7 +14,7 @@
  apt upgrade
  apt install python
  apt install git
- git clone https://github.com/tanpattaya/HelloWorld
+ git clone https://github.com/pratannaimjoi/HelloWorld
  cd helloworld
  pip3 install akad
  pip3 install beautifulsoup4
@@ -53,7 +53,7 @@
 ## VPS
 
 ```sh
- git clone https://github.com/tanpattaya/HelloWorld
+ git clone https://github.com/pratannaimjoi/HelloWorld
  cd helloworld
  python3 -m pip install -r requirements.txt
  python3 helloworld.py -a IOSIPAD
