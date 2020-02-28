@@ -1,5 +1,5 @@
 {
-  "name": "tanpattaya/hello-world-npm",
+  "name": "pratannaimjoi/hello-world-npm",
   "version": "1.0.2",
   "description": "A simple npm package to demonstrate GitHub Package Registry",
   "main": "index.js",
@@ -13,9 +13,9 @@
   "author": "Codertocat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tanpattaya/hello-world-npm/issues"
+    "url": "https://github.com/pratannaimjoi/hello-world-npm/issues"
   },
-  "homepage": "https://github.com/tanpattaya/hello-world-npm#readme",
+  "homepage": "https://github.com/pratannaimjoi/hello-world-npm#readme",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   }
