@@ -1,12 +1,3 @@
-## For install Tutorial [HERE](https://www.youtube.com/watch?v=tw5OraE7C4c&feature=youtu.be)
-# LINE Python
-
-*LINE Messaging's private API*
-
-----
-
-# JANGAN LUPA ADD [TAN BOTSelf]("https://line.me/R/ti/p/~ptatan1983")
-
 ## Termux
 
 ```sh
@@ -52,25 +43,5 @@
 
 ## VPS
 
-```sh
- git clone https://github.com/pratannaimjoi/HelloWorld
- cd helloworld
- python3 -m pip install -r requirements.txt
- python3 helloworld.py -a IOSIPAD
-```
-
-## LINE Square
-[HelloWorld Square](https://line.me/ti/g2/JGUODBE4RE)
-
-## Discord
-
-[HelloWorld](https://discord.gg/5jqbutB)
-
-## Author
-# python3
-   ``http://line.me/R/ti/p/~ptatan1983` 
-   ``https://line.me/R/ti/p/%40642xtzwc`
-
-   /[@pratan-naimjoi](https://www.linkedin.com/in/pratan-naimjoi)
 
     ꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂   
