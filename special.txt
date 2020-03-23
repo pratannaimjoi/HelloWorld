@@ -1,0 +1,18 @@
+╭───[ Special Edition ]
+├≽ gift
+├≽ respond
+├≽ mybot
+├≽ allmid
+├≽ Autolike「 on|off 」
+├≽ spamcall「 jumlah 」
+├≽ Mtoh「 tgl-bln-thn 」
+├≽ Al-quran「 nomor 」
+├≽ Ayat sajadah
+├≽ Asmaulhusna「 nomor 」
+├≽ Smule「 id 」
+├≽ Smule「 id-nomor 」
+├≽ Ytmp4「 judul 」
+├≽ Ytmp3「 judul 」
+├≽ Instagram「 id 」
+├≽ Dell「 RemoveChat 」
+╰───[ Selfbot Team ]
