@@ -41,7 +41,7 @@
       python3 helloworld.py
 
 
-## VPS
+## selfbot BY
 
 
     ꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂   
