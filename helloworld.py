@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+
+Free to use, all credits belong to me, Zero Cool.
+Do not sell or rent it!
+© 2018 Hello World
+'''
+from important import *
 import linepy
 from linepy import *
 from akad.ttypes import *
@@ -10,13 +16,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from googletrans import Translator
 import youtube_dl
-#============================================================================================================================================#
-#Free to use, all credits belong to me, Zero Cool.
-#Do not sell or rent it!
-#© 2018 Hello World
-'''
-from important import *
-
+#==============================================================================================================================================================================================#
 #Setup Argparse
 parser = argparse.ArgumentParser(description='Selfbot Hello World')
 parser.add_argument('-t', '--token', type=str, metavar='', required=False, help='Token | Example : Exxxx')
