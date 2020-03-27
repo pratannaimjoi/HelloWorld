@@ -10,9 +10,10 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from googletrans import Translator
 import youtube_dl
-Free to use, all credits belong to me, Zero Cool.
-Do not sell or rent it!
-© 2018 Hello World
+#============================================================================================================================================#
+#Free to use, all credits belong to me, Zero Cool.
+#Do not sell or rent it!
+#© 2018 Hello World
 '''
 from important import *
 
