@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+'''
 Free to use, all credits belong to me, Zero Cool.
 Do not sell or rent it!
 © 2018 Hello World
